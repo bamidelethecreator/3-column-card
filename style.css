@@ -5,7 +5,8 @@ body {
   align-items: center;
   min-height: 100vh;
   flex-direction: column;
-  font-family: "Arial", sans-serif;
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 400;
 }
 
 /* Container */
@@ -36,6 +37,8 @@ body {
 .card h2 {
   font-size: 1.5rem;
   margin: 2px;
+  font-family: "Big Shoulders Display", cursive;
+  font-weight: 700;
 }
 
 .card p {
