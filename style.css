@@ -6,7 +6,6 @@ body {
   min-height: 100vh;
   flex-direction: column;
   font-family: "Arial", sans-serif;
-  padding: 20px;
 }
 
 /* Container */
@@ -20,7 +19,7 @@ body {
 
 /* Card Styling */
 .card {
-  padding: 40px 30px;
+  padding: 40px;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
@@ -30,13 +29,13 @@ body {
 
 /* Car Icon */
 .card img {
-  width: 40px;
-  margin-bottom: 20px;
+  width: 50px;
+  margin-bottom: 10px;
 }
 
 .card h2 {
   font-size: 1.5rem;
-  margin-bottom: 20px;
+  margin: 2px;
 }
 
 .card p {
