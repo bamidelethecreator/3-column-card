@@ -45,7 +45,7 @@ body {
 .card p {
   font-size: 0.9rem;
   gap: 1.5;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 /* Button */
@@ -102,5 +102,9 @@ button:hover {
   .card {
     padding: 40px 40px;
     height: 320px;
+  }
+
+  .sedan button {
+    height: 40px;
   }
 }
